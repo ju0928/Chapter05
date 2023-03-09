@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace IfElse
 {
-    class Program
+    class MainApp
     {
         static void Main(string[] args)
         {
+            // 첫번째 커밋 진행.
         }
     }
 }
