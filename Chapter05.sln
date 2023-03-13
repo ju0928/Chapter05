@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P151_ex2", "P151_ex2\P151_e
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P151_ex3", "P151_ex3\P151_ex3.csproj", "{CF8E0472-715F-41B1-AB3A-31CFBF5CFD0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P151_ex4", "P151_ex4\P151_ex4.csproj", "{20BF6C05-D3D3-4F45-B3D7-58D3BD52028C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CF8E0472-715F-41B1-AB3A-31CFBF5CFD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF8E0472-715F-41B1-AB3A-31CFBF5CFD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF8E0472-715F-41B1-AB3A-31CFBF5CFD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20BF6C05-D3D3-4F45-B3D7-58D3BD52028C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20BF6C05-D3D3-4F45-B3D7-58D3BD52028C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20BF6C05-D3D3-4F45-B3D7-58D3BD52028C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20BF6C05-D3D3-4F45-B3D7-58D3BD52028C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
