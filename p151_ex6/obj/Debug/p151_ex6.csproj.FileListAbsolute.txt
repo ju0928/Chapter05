@@ -1,0 +1,7 @@
+D:\CSharp\Chapter05\p151_ex6\bin\Debug\p151_ex6.exe.config
+D:\CSharp\Chapter05\p151_ex6\bin\Debug\p151_ex6.exe
+D:\CSharp\Chapter05\p151_ex6\bin\Debug\p151_ex6.pdb
+D:\CSharp\Chapter05\p151_ex6\obj\Debug\p151_ex6.csproj.CoreCompileInputs.cache
+D:\CSharp\Chapter05\p151_ex6\obj\Debug\p151_ex6.exe
+D:\CSharp\Chapter05\p151_ex6\obj\Debug\p151_ex6.pdb
+D:\CSharp\Chapter05\p151_ex6\obj\Debug\p151_ex6.csproj.AssemblyReference.cache

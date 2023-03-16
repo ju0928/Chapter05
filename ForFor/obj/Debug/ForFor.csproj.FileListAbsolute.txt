@@ -1,0 +1,7 @@
+D:\CSharp\Chapter05\ForFor\bin\Debug\ForFor.exe.config
+D:\CSharp\Chapter05\ForFor\bin\Debug\ForFor.exe
+D:\CSharp\Chapter05\ForFor\bin\Debug\ForFor.pdb
+D:\CSharp\Chapter05\ForFor\obj\Debug\ForFor.csproj.AssemblyReference.cache
+D:\CSharp\Chapter05\ForFor\obj\Debug\ForFor.csproj.CoreCompileInputs.cache
+D:\CSharp\Chapter05\ForFor\obj\Debug\ForFor.exe
+D:\CSharp\Chapter05\ForFor\obj\Debug\ForFor.pdb
