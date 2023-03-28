@@ -1,0 +1,2 @@
+D:\CSharp\Chapter05\Goto\obj\Debug\Goto.csproj.AssemblyReference.cache
+D:\CSharp\Chapter05\Goto\obj\Debug\Goto.csproj.CoreCompileInputs.cache

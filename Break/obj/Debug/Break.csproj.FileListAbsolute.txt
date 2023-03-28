@@ -1,0 +1,7 @@
+D:\CSharp\Chapter05\Break\bin\Debug\Break.exe.config
+D:\CSharp\Chapter05\Break\bin\Debug\Break.exe
+D:\CSharp\Chapter05\Break\bin\Debug\Break.pdb
+D:\CSharp\Chapter05\Break\obj\Debug\Break.csproj.AssemblyReference.cache
+D:\CSharp\Chapter05\Break\obj\Debug\Break.csproj.CoreCompileInputs.cache
+D:\CSharp\Chapter05\Break\obj\Debug\Break.exe
+D:\CSharp\Chapter05\Break\obj\Debug\Break.pdb

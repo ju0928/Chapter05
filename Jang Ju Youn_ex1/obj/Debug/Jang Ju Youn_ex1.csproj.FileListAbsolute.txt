@@ -1,0 +1,7 @@
+D:\CSharp\Chapter05\Jang Ju Youn_ex1\obj\Debug\Jang Ju Youn_ex1.csproj.AssemblyReference.cache
+D:\CSharp\Chapter05\Jang Ju Youn_ex1\obj\Debug\Jang Ju Youn_ex1.csproj.CoreCompileInputs.cache
+D:\CSharp\Chapter05\Jang Ju Youn_ex1\bin\Debug\Jang Ju Youn_ex1.exe.config
+D:\CSharp\Chapter05\Jang Ju Youn_ex1\bin\Debug\Jang Ju Youn_ex1.exe
+D:\CSharp\Chapter05\Jang Ju Youn_ex1\bin\Debug\Jang Ju Youn_ex1.pdb
+D:\CSharp\Chapter05\Jang Ju Youn_ex1\obj\Debug\Jang Ju Youn_ex1.exe
+D:\CSharp\Chapter05\Jang Ju Youn_ex1\obj\Debug\Jang Ju Youn_ex1.pdb

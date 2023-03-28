@@ -18,7 +18,7 @@ namespace p151_ex6
 
             int score1 = 70; //4학년 합격점수
             int score2 = 60; //그 외 합격점수
-            int Max1 = 100;
+            int Max1 = 101;
 
 
 
@@ -29,7 +29,7 @@ namespace p151_ex6
                     Console.WriteLine($"입력하신 점수 {input2}는(은) 합격 입니다.");
                 }
 
-                else if (b <= 70&& b>=0 )
+                else if (b <= 70 && b>=0 )
                 {
                     Console.WriteLine($"입력하신 점수 {input2}는(은) 불합격 입니다.");
                 }
@@ -44,7 +44,7 @@ namespace p151_ex6
                 {
                     Console.WriteLine($"입력하신 점수 {input2}는(은) 합격 입니다.");
                 }
-                else if (b <= 60&& b>=0)
+                else if (b <= 60 && b>=0)
                 {
                     Console.WriteLine($"입력하신 점수 {input2}는(은) 불합격 입니다.");
                 }
